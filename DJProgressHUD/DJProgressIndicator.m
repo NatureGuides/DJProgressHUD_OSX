@@ -183,7 +183,12 @@
     slice.lineWidth = lineWidth;
     slice.lineCap = kCALineJoinBevel;
     slice.lineJoin = kCALineJoinBevel;
-    slice.path = smoothedPath.quartzPath;
+    
+    CGPathRef path = smoothedPath.quartzPath;
+    slice.path = path;
+    CGPathRelease(path);
+    
+    
     return slice;
 }
 
