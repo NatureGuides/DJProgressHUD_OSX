@@ -12,7 +12,7 @@ Please let me know if you find this helpfull!
 
 ##Installation
 
-**If you use Cocoapods, the feel free to add the following to your podfile:**
+**If you use CocoaPods, the feel free to add the following to your podfile:**
 
 ```
 pod 'DJProgressHUD_OSX'
@@ -21,7 +21,7 @@ pod 'DJProgressHUD_OSX'
 # pod 'DJProgressHUD_OSX', '~> X.X.X'
 ```
 
-**If you do not use Cocoapods, do the following:**
+**If you do not use CocoaPods, do the following:**
 
   1. Add DJProgressHUD to your application directory
   2. Ensure ARC is enabled on the project
