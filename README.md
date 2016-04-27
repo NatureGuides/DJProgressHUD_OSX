@@ -7,7 +7,7 @@ I am really excited to introduce this ProgressHUD for osx. When I started my fir
 
 Please let me know if you find this helpfull!
 
-![Screenshot](http://www.danmjacks.com/static/images/DJProgressHUD.png)
+![Screenshot](http://www.danj.co/static/images/DJProgressHUD.png)
 
 
 ##Installation
