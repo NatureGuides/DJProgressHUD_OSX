@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F46C86D01D9BB3EC0042B341 /* DJActivityIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86C81D9BB3EC0042B341 /* DJActivityIndicator.h */; };
+		F46C86D01D9BB3EC0042B341 /* DJActivityIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86C81D9BB3EC0042B341 /* DJActivityIndicator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F46C86D11D9BB3EC0042B341 /* DJActivityIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = F46C86C91D9BB3EC0042B341 /* DJActivityIndicator.m */; };
-		F46C86D21D9BB3EC0042B341 /* DJBezierPath.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86CA1D9BB3EC0042B341 /* DJBezierPath.h */; };
+		F46C86D21D9BB3EC0042B341 /* DJBezierPath.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86CA1D9BB3EC0042B341 /* DJBezierPath.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F46C86D31D9BB3EC0042B341 /* DJBezierPath.m in Sources */ = {isa = PBXBuildFile; fileRef = F46C86CB1D9BB3EC0042B341 /* DJBezierPath.m */; };
-		F46C86D41D9BB3EC0042B341 /* DJProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86CC1D9BB3EC0042B341 /* DJProgressHUD.h */; };
+		F46C86D41D9BB3EC0042B341 /* DJProgressHUD.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86CC1D9BB3EC0042B341 /* DJProgressHUD.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F46C86D51D9BB3EC0042B341 /* DJProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = F46C86CD1D9BB3EC0042B341 /* DJProgressHUD.m */; };
-		F46C86D61D9BB3EC0042B341 /* DJProgressIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86CE1D9BB3EC0042B341 /* DJProgressIndicator.h */; };
+		F46C86D61D9BB3EC0042B341 /* DJProgressIndicator.h in Headers */ = {isa = PBXBuildFile; fileRef = F46C86CE1D9BB3EC0042B341 /* DJProgressIndicator.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F46C86D71D9BB3EC0042B341 /* DJProgressIndicator.m in Sources */ = {isa = PBXBuildFile; fileRef = F46C86CF1D9BB3EC0042B341 /* DJProgressIndicator.m */; };
 /* End PBXBuildFile section */
 
